@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.list a {
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: none;
+}
+.list div {
+  padding: 10px 2px;
+}
+hr {
+  width: 100%;
+  height: 1px;
+  background: #fff;
+}
+.courseimg,
+.teamimg {
+  height: 30px;
+  width: 30px;
+}
+
+a :link {
+  text-decoration: none;
+}
+.col1,
+.col2,
+.col3 {
+  font-weight: bold;
+  padding-bottom: 15px;
+  padding-top: 5px;
+}
+.col1 {
+  background-color: #dabaf5;
+}
+.col2 {
+  background-color: #dcf7f6;
+}
+
+.col3 {
+  background-color: antiquewhite;
+}
